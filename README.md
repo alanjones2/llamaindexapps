@@ -2,13 +2,15 @@
 
 ### Subdirectories
 
-- ### llamaindexagent
+- ## [llamaindexagent](https://github.com/alanjones2/llamaindexapps/tree/main/llamaindexagent)
 
-    [How to Build a Private AI Agent with Ollama and LlamaIndex](https://datavizandai.github.io/2024/10/18/ollama-agent.html)
+    ### [How to Build a Private AI Agent with Ollama and LlamaIndex](https://datavizandai.github.io/2024/10/18/ollama-agent.html)
 
     This contains the files to support the article linked to above. It is a project that uses the LlamaIndex ReactAgent and couples it with a local LLM running via Ollama
 
-- ### TBA
+- ## TBA
+
+    More sub-projects will go here
  
 ---
 ### If you find this content useful, please consider one or more of the following:
